@@ -1,0 +1,58 @@
+.PageBody {
+    margin-top: 41px;
+}
+
+.CardHeader {
+    width: 70%;
+    height: 43px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.CardHeaderText {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.CardBody {
+    width: 70%;
+    height: 400px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.CardBodyContent {
+    text-align: center;
+    margin-top: 21px;
+}
+
+.SubHeading {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.Line {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.Col {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+
+.TopicName {
+    font-weight: bold;
+}
+
+.Answer {
+    font-style: italic;
+}

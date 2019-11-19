@@ -1,0 +1,1 @@
+export let backendURL = 'http://localhost:5000/api/v1/';

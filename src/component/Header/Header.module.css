@@ -1,0 +1,19 @@
+.HeaderWrapper {
+    height: 90px;
+    width: 100%;
+    background: rgb(36, 105, 179);
+    background: -moz-linear-gradient(321deg, rgba(36, 105, 179, 1) 0%, rgba(56, 178, 232, 1) 77%);
+    background: -webkit-linear-gradient(321deg, rgba(36, 105, 179, 1) 0%, rgba(56, 178, 232, 1) 77%);
+    background: linear-gradient(321deg, rgba(36, 105, 179, 1) 0%, rgba(56, 178, 232, 1) 77%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2469b3", endColorstr="#38b2e8", GradientType=1);
+}
+
+.HeaderContent {}
+
+.HeaderTitleWrapper {
+    font-size: 24px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    padding-top: 27px;
+    text-align: center;
+}

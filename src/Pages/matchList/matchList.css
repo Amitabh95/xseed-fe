@@ -1,0 +1,19 @@
+.TableContainer {
+    margin-top: 25px;
+    width: 95%;
+    margin-left: 2.5%;
+}
+
+.CustomSearchBox {
+    width: 50%;
+    float: right;
+    font-size: 13px;
+}
+
+.dropdown-toggle {
+    font-size: 14px !important;
+}
+
+.DummyHeight {
+    height: 30px;
+}
